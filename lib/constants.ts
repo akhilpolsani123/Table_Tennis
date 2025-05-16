@@ -1,0 +1,1 @@
+export const TELEGRAM_LINK = "https://t.me/your_telegram_link"; // Replace with your actual Telegram link 
